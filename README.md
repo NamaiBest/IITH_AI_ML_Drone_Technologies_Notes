@@ -5,3 +5,4 @@
 | September 9, 2025 | https://colab.research.google.com/drive/1t5gT7lBbPcY90Omxc9jmr-QD4WExRrzv?usp=sharing |
 | October 14, 2025 | https://colab.research.google.com/drive/1VmP0QElm0cDAqAYbDesO6UsnAukgpxcz?usp=sharing |
 | October 23, 2025 | https://colab.research.google.com/drive/1ls98BVXEi9LjOO2525SL42CwjNcHYtiX?usp=sharing |
+| October 24, 2025 | https://colab.research.google.com/drive/1ls98BVXEi9LjOO2525SL42CwjNcHYtiX?usp=sharing |
