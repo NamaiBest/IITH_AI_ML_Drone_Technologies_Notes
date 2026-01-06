@@ -14,3 +14,4 @@
 | December 15, 2025 | https://colab.research.google.com/drive/1SNXyGryqFjU_dUM1w9Z4WNv4Bpjsna48?usp=sharing |
 | December 26, 2025 - Midterm Review | https://colab.research.google.com/drive/1SZIDY4Jt1Y9inCCNfBpGpNAyoLaq3TLs?usp=sharing |
 | December 30, 2025 | https://colab.research.google.com/drive/1BR442ce3uGluJ2tWTQB2-Ygi-zo-JXgn?usp=sharing | 
+| 6th January, 2026 | https://colab.research.google.com/drive/1tguFtH3ZjymMafxApNK53AWJtjBRxtfY?usp=sharing | 
